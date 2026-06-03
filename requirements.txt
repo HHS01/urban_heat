@@ -1,0 +1,11 @@
+geopandas
+rasterio
+earthengine-api
+osmnx
+folium
+streamlit
+openmeteo-requests
+requests-cache
+retry-requests
+matplotlib
+scikit-learn
